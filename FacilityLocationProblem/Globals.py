@@ -1,0 +1,3 @@
+global facilities_setup_cost, facilities_capacity, facilities_location
+global customers_demand, customers_location
+global facility_count, customer_count, total_customer_demand
